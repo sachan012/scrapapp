@@ -1,0 +1,52 @@
+Array
+(
+    [0] => Array
+        (
+            [fullname] => Monu Kumar
+            [email] => monuk@triazinesoft.com
+            [phone] => 9717943954
+        )
+
+    [1] => Array
+        (
+            [fullname] => Himanshu
+            [email] => abhahim@gmail.com
+            [phone] => 7683029297
+        )
+
+    [2] => Array
+        (
+            [fullname] => Rahukl
+            [email] => raghj@mailinator.com
+            [phone] => 9911301596
+        )
+
+    [3] => Array
+        (
+            [fullname] => Abhishek
+            [email] => as74gupta@yahoo.co.in
+            [phone] => 9999075280
+        )
+
+    [4] => Array
+        (
+            [fullname] => Prashant Sachan
+            [email] => sachanprashant223@gmail.com
+            [phone] => 9958945570
+        )
+
+    [5] => Array
+        (
+            [fullname] => Rahul
+            [email] => rahul12@mailinator.com
+            [phone] => 9643367110
+        )
+
+    [6] => Array
+        (
+            [fullname] => Pankaj.sharma@ns-forgingindia.com 
+            [email] => pankaj.sharma@ns-forgingindia.com
+            [phone] => 7206910260
+        )
+
+)

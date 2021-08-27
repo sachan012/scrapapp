@@ -1,0 +1,6 @@
+Array
+(
+    [0] => /var/www/html/scrapapp/send_request.php
+    [1] => 35
+    [2] => http://49.50.69.229/scrapapp/sendmail/sendBackgroundEmail
+)
